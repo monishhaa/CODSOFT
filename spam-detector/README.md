@@ -1,13 +1,13 @@
-#SMS Spam Detector 
+SMS Spam Detector 
 
 This project is a simple machine learning model to detect spam messages using Python, TF-IDF, and Naive Bayes. Built as part of CodSoft’s internship program.
 
-##How it works
+How it works
 - Uses the SMS Spam Collection dataset
 - Transforms text messages into numbers using TF-IDF
 - Trains a Naive Bayes model to classify messages as SPAM or NOT SPAM
 
-##Demo
+Demo
 
 Here’s a quick look at the spam detection working in action:
 
