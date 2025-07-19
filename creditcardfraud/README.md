@@ -28,4 +28,3 @@ Transaction Amount: ₹ 1.0
 Prediction: FRAUD
 Actual Label: FRAUD
 
-![Model Output](working.png)
