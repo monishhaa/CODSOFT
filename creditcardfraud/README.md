@@ -27,3 +27,7 @@ Enter transaction index (0 to 284806): 541
 Transaction Amount: ₹ 1.0
 Prediction: FRAUD
 Actual Label: FRAUD
+
+<p align="center">
+  <img src="working.png" alt="Model Output" width="600"/>
+</p>
