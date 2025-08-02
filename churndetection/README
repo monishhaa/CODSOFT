@@ -1,4 +1,4 @@
-# Customer Churn Prediction – Machine Learning Project
+#Customer Churn Prediction – Machine Learning Project
 
 This project uses machine learning to predict whether a bank customer will **stay or leave** (churn) based on their profile and usage behavior.
 
@@ -6,7 +6,7 @@ Built as part of the CodSoft ML Internship program.
 
 ---
 
-## How It Works
+##How It Works
 
 - Uses the Kaggle [Bank Churn Dataset](https://www.kaggle.com/datasets/shantanudhakadd/bank-customer-churn-prediction)
 - Encodes `Gender` and `Geography`
@@ -15,7 +15,7 @@ Built as part of the CodSoft ML Internship program.
 
 ---
 
-## Files
+##Files
 
 | File                  | Description                        |
 |-----------------------|------------------------------------|
@@ -25,7 +25,7 @@ Built as part of the CodSoft ML Internship program.
 
 ---
 
-## Example Predictions
+##Example Predictions
 
 ```text
  Enter a customer index (0 to 9999): 4312
